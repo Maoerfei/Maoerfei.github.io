@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://maoerfei.github.io</id>
+    <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-03-10T10:42:40.668Z</updated>
+    <updated>2022-03-18T05:17:47.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://maoerfei.github.io"/>
-    <link rel="self" href="https://maoerfei.github.io/atom.xml"/>
+    <link rel="alternate" href="https://luzang.xyz"/>
+    <link rel="self" href="https://luzang.xyz/atom.xml"/>
     <subtitle>一个悲观主义者的积极思考。</subtitle>
-    <logo>https://maoerfei.github.io/images/avatar.png</logo>
-    <icon>https://maoerfei.github.io/favicon.ico</icon>
+    <logo>https://luzang.xyz/images/avatar.png</logo>
+    <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
     <entry>
+        <title type="html"><![CDATA[浅谈永恒]]></title>
+        <id>https://luzang.xyz/post/qian-tan-yong-heng/</id>
+        <link href="https://luzang.xyz/post/qian-tan-yong-heng/">
+        </link>
+        <updated>2022-03-18T05:12:01.000Z</updated>
+        <content type="html"><![CDATA[<p>没有什么是永恒的，正如西西弗神话人类只能不断的将巨石推到山顶，当然它也是还有它的积极意义，正如你看透了生活的真相依旧热爱它，即便你明天就要离去，今天依旧会计划着怎样度过不会令自己后悔的一天，我们终将离去，终将与这个世界告别。一个对这个世界已经不抱有任何希望的人，在生命的尽头，我想也是怕死的，他害怕自己的意识不能完美的被继承，他害怕被遗忘，总而言之他想超越有限.<br>
+从虚无到有再到虚无是一件令人害怕又难以理解的事情，我们从一片虚无中走出来，又被强迫着走进这片虚无，死亡究竟意味着什么呢？从肉体到灵魂，从意识到行动，看似相联又毫不相关，如果生命是被某种力量完美的雕刻出来，那么每个人将变得滑稽又可笑，你所有的理想与奋斗，只不过是镜花水月。那么在造物主看来死亡应该是某种解脱，而对于人类来说，人类是没有眼睛的动物，它需要一个太阳去感受温度，贴近温度，灵魂的永恒是支撑它继续不断前行的最好理由。<br>
+比起永恒，活在当下可能是大多数人更应该投资的事情，也更容易成功的事情，但应该感到羞愧。</p>
+<p>未经允许禁止转载🌈<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[欢迎向我匿名提问！]]></title>
-        <id>https://maoerfei.github.io/post/huan-ying-xiang-wo-ni-ming-ti-wen/</id>
-        <link href="https://maoerfei.github.io/post/huan-ying-xiang-wo-ni-ming-ti-wen/">
+        <id>https://luzang.xyz/post/huan-ying-xiang-wo-ni-ming-ti-wen/</id>
+        <link href="https://luzang.xyz/post/huan-ying-xiang-wo-ni-ming-ti-wen/">
         </link>
         <updated>2022-02-02T11:29:35.000Z</updated>
         <content type="html"><![CDATA[<div id="vcomments"></div>
@@ -27,8 +51,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[乌鸦]]></title>
-        <id>https://maoerfei.github.io/post/wu-ya/</id>
-        <link href="https://maoerfei.github.io/post/wu-ya/">
+        <id>https://luzang.xyz/post/wu-ya/</id>
+        <link href="https://luzang.xyz/post/wu-ya/">
         </link>
         <updated>2022-01-09T09:42:12.000Z</updated>
         <content type="html"><![CDATA[<p>在乌鸦小憩的枝尖上<br>
@@ -65,8 +89,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[飘]]></title>
-        <id>https://maoerfei.github.io/post/piao/</id>
-        <link href="https://maoerfei.github.io/post/piao/">
+        <id>https://luzang.xyz/post/piao/</id>
+        <link href="https://luzang.xyz/post/piao/">
         </link>
         <updated>2021-12-04T22:13:36.000Z</updated>
         <content type="html"><![CDATA[<p>从很远很远的地方<br>
@@ -106,8 +130,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[山坡上]]></title>
-        <id>https://maoerfei.github.io/post/shan-po-shang/</id>
-        <link href="https://maoerfei.github.io/post/shan-po-shang/">
+        <id>https://luzang.xyz/post/shan-po-shang/</id>
+        <link href="https://luzang.xyz/post/shan-po-shang/">
         </link>
         <updated>2021-11-30T22:23:57.000Z</updated>
         <content type="html"><![CDATA[<p>天黑前的两个小时，城市已经被点亮，被唤醒，我们正行往市郊外的一座小山的路途上。“我们都知道那是一座坟地！”来这之前的某一天，公司的同事这么说道。<br>
@@ -178,8 +202,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[西方哲学史 罗素]]></title>
-        <id>https://maoerfei.github.io/post/xi-fang-zhe-xue-shi-luo-su/</id>
-        <link href="https://maoerfei.github.io/post/xi-fang-zhe-xue-shi-luo-su/">
+        <id>https://luzang.xyz/post/xi-fang-zhe-xue-shi-luo-su/</id>
+        <link href="https://luzang.xyz/post/xi-fang-zhe-xue-shi-luo-su/">
         </link>
         <updated>2021-11-12T08:34:51.000Z</updated>
         <content type="html"><![CDATA[<h2 id="part1">Part1.</h2>
@@ -212,8 +236,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[诗学--美取决与大小和排序]]></title>
-        <id>https://maoerfei.github.io/post/shi-xue-mei-qu-jue-yu-da-xiao-he-pai-xu/</id>
-        <link href="https://maoerfei.github.io/post/shi-xue-mei-qu-jue-yu-da-xiao-he-pai-xu/">
+        <id>https://luzang.xyz/post/shi-xue-mei-qu-jue-yu-da-xiao-he-pai-xu/</id>
+        <link href="https://luzang.xyz/post/shi-xue-mei-qu-jue-yu-da-xiao-he-pai-xu/">
         </link>
         <updated>2021-11-01T10:01:40.000Z</updated>
         <content type="html"><![CDATA[<p>自作序：<br>
@@ -409,8 +433,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[一切都在孤独里成全--叔本华]]></title>
-        <id>https://maoerfei.github.io/post/yi-qie-du-zai-gu-du-li-cheng-quan-shu-ben-hua/</id>
-        <link href="https://maoerfei.github.io/post/yi-qie-du-zai-gu-du-li-cheng-quan-shu-ben-hua/">
+        <id>https://luzang.xyz/post/yi-qie-du-zai-gu-du-li-cheng-quan-shu-ben-hua/</id>
+        <link href="https://luzang.xyz/post/yi-qie-du-zai-gu-du-li-cheng-quan-shu-ben-hua/">
         </link>
         <updated>2021-10-26T18:52:35.000Z</updated>
         <content type="html"><![CDATA[<hr>
@@ -484,8 +508,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[奥古斯特]]></title>
-        <id>https://maoerfei.github.io/post/ao-gu-si-te/</id>
-        <link href="https://maoerfei.github.io/post/ao-gu-si-te/">
+        <id>https://luzang.xyz/post/ao-gu-si-te/</id>
+        <link href="https://luzang.xyz/post/ao-gu-si-te/">
         </link>
         <updated>2021-10-24T10:25:40.000Z</updated>
         <content type="html"><![CDATA[<p>最后一只六只脚的黑色武士被拦腰斩断<br>
@@ -528,8 +552,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[小刺猬]]></title>
-        <id>https://maoerfei.github.io/post/xiao-ci-wei/</id>
-        <link href="https://maoerfei.github.io/post/xiao-ci-wei/">
+        <id>https://luzang.xyz/post/xiao-ci-wei/</id>
+        <link href="https://luzang.xyz/post/xiao-ci-wei/">
         </link>
         <updated>2021-10-23T19:33:11.000Z</updated>
         <content type="html"><![CDATA[<p>小刺猬一家搬进了新家，在一个树叶飘零的秋天。<br>
@@ -573,40 +597,6 @@
         })
     </script>
 </span>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[风吹过的]]></title>
-        <id>https://maoerfei.github.io/post/feng-chui-guo-de/</id>
-        <link href="https://maoerfei.github.io/post/feng-chui-guo-de/">
-        </link>
-        <updated>2021-10-22T21:14:00.000Z</updated>
-        <content type="html"><![CDATA[<p>我将来时的路藏进森林<br>
-盖住脚印<br>
-口袋里藏着露水与星晨<br>
-我喜欢这段旅程<br>
-有橡胶鞋底压过树叶的声音<br>
-那是未曾用力过的<br>
-温柔的痕迹</p>
-<p>露水沾在蜘蛛网上<br>
-那是上天恩赐的幸福<br>
-可幸福不是一只倒霉蛋<br>
-无私地滋养着孤独<br>
-是啊<br>
-森林里藏着孤独<br>
-却拥有更深的虚无</p>
-<p>未经允许禁止转载🌈<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
 <div id="vcomments"></div>
     <script>
         new Valine({
