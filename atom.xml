@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-03-21T11:43:58.768Z</updated>
+    <updated>2022-03-22T09:33:54.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[一些莫名其妙的影评]]></title>
+        <id>https://luzang.xyz/post/yi-xie-mo-ming-qi-miao-de-ying-ping/</id>
+        <link href="https://luzang.xyz/post/yi-xie-mo-ming-qi-miao-de-ying-ping/">
+        </link>
+        <updated>2022-03-22T08:17:27.000Z</updated>
+        <content type="html"><![CDATA[<p>qaq</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浅谈永恒]]></title>
         <id>https://luzang.xyz/post/qian-tan-yong-heng/</id>
@@ -41,6 +50,41 @@
         </link>
         <updated>2022-02-02T11:29:35.000Z</updated>
         <content type="html"><![CDATA[<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我走向你]]></title>
+        <id>https://luzang.xyz/post/wo-zou-xiang-ni-de/</id>
+        <link href="https://luzang.xyz/post/wo-zou-xiang-ni-de/">
+        </link>
+        <updated>2022-02-02T11:28:57.000Z</updated>
+        <content type="html"><![CDATA[<p>我走向你<br>
+千百年来只有我走向你<br>
+青鸟裹着迅雷烈风<br>
+茕茕孑立</p>
+<p>我走向你<br>
+茫茫而无边际<br>
+青草和着塑靴稀泥<br>
+从南到北极</p>
+<p>我走向你<br>
+梦中的飞鸟有万般模样<br>
+划破彩霓<br>
+略过涟漪</p>
+<p>嘿！<br>
+只是今夜<br>
+我想走向你</p>
+<p>未经允许禁止转载🌈<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
     <script>
         new Valine({
             el: '#vcomments',
@@ -496,106 +540,6 @@
 <span id="busuanzi_container_page_pv">
   本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
-</span>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥古斯特]]></title>
-        <id>https://luzang.xyz/post/ao-gu-si-te/</id>
-        <link href="https://luzang.xyz/post/ao-gu-si-te/">
-        </link>
-        <updated>2021-10-24T10:25:40.000Z</updated>
-        <content type="html"><![CDATA[<p>最后一只六只脚的黑色武士被拦腰斩断<br>
-奥古斯特成为这座城市的王<br>
-天空中漂浮着黑色的尘埃<br>
-伸出手就能触摸到这些存在过的证明<br>
-城堡里尽是被燃烧过的痕迹<br>
-一名士兵在熏黑的墙砖上画上了一个十字<br>
-穿过长廊，尘埃被拦在门外<br>
-沾染在锈迹斑驳的门把手上<br>
-在阳光下散发着金黄色的光芒<br>
-推开门，一束光便打在玛丽王后的脸上<br>
-她安详地坐在法兰绒的沙发上<br>
-一把匕首镶嵌在胸口上<br>
-鲜血染红了瓦托式罗布<br>
-耷拉着头，像拉斐尔圣母般宁静安详未曾体验过痛苦<br>
-只是这城墙内再无款款走来，飘飘欲仙<br>
-穹顶上掉落的贝壳<br>
-落在睡着了的挪威森林猫的面前<br>
-就在玛丽王后的右手边<br>
-整座城再也不复往昔荣光<br>
-下水道的老鼠，纷纷流窜在喧闹的街道上<br>
-它们属于这座城市<br>
-也永远都存在于这座城市<br>
-至于亨利他再也没有扭过头看过身后的城堡<br>
-然而这也是他的宿命</p>
-<p>未经允许禁止转载🌈</p>
-<span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
-</span>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小刺猬]]></title>
-        <id>https://luzang.xyz/post/xiao-ci-wei/</id>
-        <link href="https://luzang.xyz/post/xiao-ci-wei/">
-        </link>
-        <updated>2021-10-23T19:33:11.000Z</updated>
-        <content type="html"><![CDATA[<p>小刺猬一家搬进了新家，在一个树叶飘零的秋天。<br>
-　　“这儿有人吗”她将视线放在长椅上又移向夏的脸上.<br>
-　　“没有”<br>
-　　三月的六点钟，有人红着眼染红了傍晚的晚霞，华丽的落下帷幕。城市里每天都在发生各式各样的故事，因为没人会记录所以很快被遗忘。那些精彩的，跨越几个城市得到的爱情，狗血淋头的，谁家的公狗又勾引了谁家的母狗，还有那些不由得自己感动的，拾荒老人收留的那些流浪狗们。<br>
-　　然而这些都跟夏无关，简而言之他是个一个很“轻”的人，衬衫起了皱子也没关系，因为不会增加任何的重量，皮鞋上沾了灰确是大问题，尽管事实上他不穿衬衫也不穿皮鞋，所以当她走近的时候，他甚至没有在意，向他询问时也没有抬头看向她。<br>
-　　小刺猬说：“我喜欢这里！不拥挤，不嘈杂，却有点过于冷清了”<br>
-　　“你要有耐心哦，冷清只是最表面不过的假象。”刺猬爸爸一边搬家具一边说道。<br>
-　　不一会儿就有狐狸小姐，松鼠先生等一大批人过来探望这新搬来的一家人。小刺猬在围观中不知所措，只是站在那里也足够为难它了。但院子里确实被塞的满满当当的，充满了欢快和谐的气息，倒也不至于让人觉得厌恶。<br>
-　　很快所有人都散去，只留下满地的狼藉，除此之外什么也没留下。<br>
-　　“通俗意义上的幸福都是这样的吗？为了什么呢？”没有人回应小松鼠，伴随着这样的思考，升起了月亮，进入了梦乡。<br>
-　　每天下班夏总是会坐在这儿看书，于他而言，诚然这是一天中最好的时间。过于喧嚣的城市诞生了无数失意者，他们每天都在犯错，就似乎从未做对过，每吸一口空气吐出来都是沉重的凝结成块的，他们不关心这些，他们只关心错在哪。<br>
-　　后来她也每天都在这，从开始到结束都没有名字。有好几次她都想上前搭话，都被夏抿住嘴唇情绪即将喷涌的神情打断了。他们只是坐在那里，等路灯取代夕阳从身后打出一束光，将两个素不相识的陌生人的影子交织在一起，然后等其中一个将它们分离，有时候是左边早有时候是右边早。<br>
-这天，小刺猬坐在观赛区看着新朋友们踢足球，刺猬妈妈从身后叫了一下他的名字，它条件反射的转过身来，刺伤了一旁的狐狸小姐。它连忙说了句“对不起”起身迅速离开了，留下了它的画册安安静静的躺在座位上。回家的路上走过一片银杏林，银杏叶一片一片叠出了金黄色浪漫，在夕阳下的作用下熠熠生辉，小刺猬轻身走过，一步一步的发出沙沙的声音，当它走近一棵树下，一片银杏叶悄无声息的落在它的头顶上。”<br>
-　　春天的尾巴满载着希望将故事写入盛夏。他们沉默着离开，微笑着再来，除此之外也再无过多交集。<br>
-　　她有时会静静坐在那里，拿起化妆镜涂了涂口红，在镜子里看着小朋友拿着手电筒探照这个小小世界，与每一个细节，或许是地上一只蚂蚁，一直不知名的小虫子，灰尘与灰尘底下埋藏的油污与还未完全清理干净的口香糖渣。<br>
-　　而他只是坐在那里，看着书。<br>
-　　凛冬将至，小刺猬还是与所有人保持着距离，似乎跟以前没有什么区别。也不知道寒冷与大雪谁来的更早一些，窗内起了雾，凝结成一颗颗小水珠，附着在玻璃上。<br>
-　　“你在看什么？”刺猬爸爸说道。<br>
-　　“我在透过窗户看世界”<br>
-　　“为什么透着窗？”<br>
-　　小刺猬走出温暖的的小屋，去面对着白茫茫的一片，这白茫茫的一片，真是白茫茫一片！他不知道该去哪，它害怕遇见，但它知道遇见人的时候他可以低着头。也只是这样走着，树上的鸟儿一个接一个地起身飞翔，将枝桠上的积雪洒落在地上，将爪子上的雪花融成水滴在它的头顶上，它不由得停下了脚步，停留在狐狸小姐门口的位置上，它想起它还有一本雷诺阿的画册。<br>
-小刺猬走到门前，几次敲门的手已经伸出去了，又缩了回来，它走上了台阶又走下了台阶，狐狸小姐打开了门。<br>
-　　“快进来吧，有什么事吗？”<br>
-　　“没有，随便逛逛”<br>
-　　天空阴沉，压的人喘不过气，迫不及待的下起了雨。很快雨滴顺着叶梢打在书上，街道的另一边有人有人撑着伞一起走过，而街道这边，一只蚂蚁在洞穴外探着脑袋，祈祷着不要淹没自己的洞穴。<br>
-夏刚准备起身离开，下意识的看了一眼长椅的另一边，没有人。<br>
-翌日，她也不在。她可能是搬家了吧，她可能是另有安排了吧，她可能永远的离开了吧，是的，永远也不会回来了。<br>
-　　夏还是一个人，直到这个冬天结束，他也将不在这儿了。那么，我们约好一起去看书吧，就在今天。</p>
-<p>未经允许禁止转载🌈</p>
-<span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>
 </span>
 <div id="vcomments"></div>
     <script>
