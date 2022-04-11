@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-04-01T07:17:40.716Z</updated>
+    <updated>2022-04-11T19:25:17.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[离去]]></title>
+        <id>https://luzang.xyz/post/chi-qu/</id>
+        <link href="https://luzang.xyz/post/chi-qu/">
+        </link>
+        <updated>2022-04-11T19:24:08.000Z</updated>
+        <content type="html"><![CDATA[<p>当你说要离去<br>
+在一个很深的夜<br>
+就像一幅行走的艺术那般<br>
+在漫长的黑夜中<br>
+起舞<br>
+而后再升起一团团薄雾<br>
+当它们熟透了熬过了<br>
+就将化成一颗颗露珠<br>
+落在一幕又一幕</p>
+<p>未经允许禁止转载🌈<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[渴望]]></title>
         <id>https://luzang.xyz/post/ke-wang/</id>
@@ -22,12 +51,13 @@
 而不是嫩苗<br>
 它们日复一日地<br>
 熬过这一天的渴望<br>
-却也划出了美妙的轨迹<br>
-犹如大脑<br>
-捕捉了艺术的细腻<br>
+在这座凹凸不平的星球上<br>
+划出了美妙的轨迹<br>
+于是愚钝的大脑<br>
+捕捉了这艺术的细腻<br>
 在发根极速生长<br>
 在未曾踏足的大地上<br>
-却也开出了一整个你爱的四季</p>
+开出了一整个你爱的四季</p>
 <p>未经允许禁止转载🌈<br>
 <span id="busuanzi_container_page_pv"><br>
 本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
@@ -50,11 +80,13 @@
         <updated>2022-04-01T07:16:05.000Z</updated>
         <content type="html"><![CDATA[<p>一栋沾满青苔的房子<br>
 它活着<br>
-是为了躺着让汽车横着开进来<br>
+是为了某一天能躺着<br>
+让汽车轰轰隆隆地开进来<br>
 清晨<br>
-我们马不停蹄地爬进棺材<br>
+它们空着<br>
+它们被塞满了<br>
 只在傍晚才觉得自由自在<br>
-我们一直住在这<br>
+他们一直住在这<br>
 只是偶尔不在<br>
 我们在房子里<br>
 却在房子外</p>
@@ -252,47 +284,6 @@
 <p>而乌鸦呢！<br>
 乌鸦呢?<br>
 别来无恙</p>
-<p>未经允许禁止转载🌈<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飘]]></title>
-        <id>https://luzang.xyz/post/piao/</id>
-        <link href="https://luzang.xyz/post/piao/">
-        </link>
-        <updated>2021-12-04T22:13:36.000Z</updated>
-        <content type="html"><![CDATA[<p>从很远很远的地方<br>
-到很远很远的地方<br>
-我们形影不离<br>
-我们无处不在<br>
-在冬日的阳光下打着滚儿<br>
-在忧伤到不能停止的河流里<br>
-将它们染成五颜六色<br>
-我们随风又自由<br>
-我们起舞又小心翼翼<br>
-我讨厌过你<br>
-也讨厌自己<br>
-终将分别<br>
-终将老去<br>
-已经被定格了的<br>
-那些时光里的微尘<br>
-也变得依旧清晰可见<br>
-没人会记得我<br>
-也没人会记得你<br>
-兴许某一天我老去但依旧年轻<br>
-我也会觉得<br>
-遇见你真好.🌸</p>
 <p>未经允许禁止转载🌈<br>
 <span id="busuanzi_container_page_pv"><br>
 本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
