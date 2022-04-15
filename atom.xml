@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-04-15T07:13:14.316Z</updated>
+    <updated>2022-04-15T07:53:09.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[未被消化的辣椒]]></title>
+        <id>https://luzang.xyz/post/wei-bei-xiao-hua-de-la-jiao/</id>
+        <link href="https://luzang.xyz/post/wei-bei-xiao-hua-de-la-jiao/">
+        </link>
+        <updated>2022-04-15T07:51:52.000Z</updated>
+        <content type="html"><![CDATA[<p>北极熊在我的肚子里点起了一把火<br>
+那火亮的透明<br>
+热的赤裸裸<br>
+像沙滩上的女人<br>
+肉欲之外皆是冷漠</p>
+<p>少女在我的肚皮上跳起芭蕾<br>
+脚尖摩擦生火<br>
+心里空落落<br>
+像一颗颗安在天桥上的螺母<br>
+各得其所的安乐窝</p>
+<p>它在胃液中翻滚<br>
+像一只桀骜不驯的小泥鳅<br>
+挣扎着不愿笔直地死去<br>
+黑夜升起<br>
+黏液也将变得浑浊<br>
+你看月光多好</p>
+<p>未经允许禁止转载🌈<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这一路]]></title>
         <id>https://luzang.xyz/post/zhe-yi-lu/</id>
@@ -255,41 +291,6 @@
         </link>
         <updated>2022-02-02T11:29:35.000Z</updated>
         <content type="html"><![CDATA[<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我走向你]]></title>
-        <id>https://luzang.xyz/post/wo-zou-xiang-ni-de/</id>
-        <link href="https://luzang.xyz/post/wo-zou-xiang-ni-de/">
-        </link>
-        <updated>2022-02-02T11:28:57.000Z</updated>
-        <content type="html"><![CDATA[<p>我走向你<br>
-千百年来只有我走向你<br>
-青鸟裹着迅雷烈风<br>
-茕茕孑立</p>
-<p>我走向你<br>
-茫茫而无边际<br>
-青草和着塑靴稀泥<br>
-从南到北极</p>
-<p>我走向你<br>
-梦中的飞鸟有万般模样<br>
-划破彩霓<br>
-略过涟漪</p>
-<p>嘿！<br>
-只是今夜<br>
-我想走向你</p>
-<p>未经允许禁止转载🌈<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
     <script>
         new Valine({
             el: '#vcomments',
