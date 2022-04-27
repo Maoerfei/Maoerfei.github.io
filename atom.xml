@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-04-27T19:08:18.053Z</updated>
+    <updated>2022-04-27T20:11:58.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[可爱]]></title>
+        <id>https://luzang.xyz/post/ke-ai/</id>
+        <link href="https://luzang.xyz/post/ke-ai/">
+        </link>
+        <updated>2022-04-27T20:09:11.000Z</updated>
+        <content type="html"><![CDATA[<p>我想形容某种可爱<br>
+是鱼嘟嘴偷偷亲过云彩<br>
+脸红被涟漪隐匿</p>
+<p>有人撅嘴想要敲打它的脑袋<br>
+于是这世界有了雨</p>
+<p>我想形容某种可爱<br>
+是猫猫耷拉着脑袋伏在山羊的背上<br>
+呼噜声穿透了整片草原</p>
+<p>有人叫醒它想要去很多地方<br>
+于是这世界有了光</p>
+<p>我想形容一种可爱<br>
+是一种假象</p>
+<p>未经允许禁止转载🌈<br>
+评论中昵称邮箱网址可只填写昵称.<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[树洞]]></title>
         <id>https://luzang.xyz/post/shu-dong/</id>
@@ -310,46 +343,6 @@
 埋葬着是一颗颗透明的秘密<br>
 只是没人告诉他<br>
 它为何如此痴迷</p>
-<p>未经允许禁止转载🌈<br>
-评论中昵称邮箱网址可只填写昵称.<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雨中的少年]]></title>
-        <id>https://luzang.xyz/post/yu-zhong-de-shao-nian/</id>
-        <link href="https://luzang.xyz/post/yu-zhong-de-shao-nian/">
-        </link>
-        <updated>2022-03-22T17:47:12.000Z</updated>
-        <content type="html"><![CDATA[<p>腐朽发臭的井盖上<br>
-一束有意识的灯光<br>
-悄悄地刺进它的心脏<br>
-啊鲜血<br>
-从此流淌<br>
-时而回响</p>
-<p>积水弥望的小巷<br>
-有着一个惆怅的渴望<br>
-在土地下升起太阳<br>
-啊阳光<br>
-从此滚烫<br>
-漏泄春光</p>
-<p>而雨中的少年<br>
-会流泪<br>
-在歌唱<br>
-一颗颗闪着光的太阳<br>
-在坠落<br>
-在飞翔<br>
-在流进心脏</p>
 <p>未经允许禁止转载🌈<br>
 评论中昵称邮箱网址可只填写昵称.<br>
 <span id="busuanzi_container_page_pv"><br>
