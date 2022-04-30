@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-04-30T12:02:35.690Z</updated>
+    <updated>2022-04-30T21:07:16.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[不可阻挡]]></title>
+        <id>https://luzang.xyz/post/bu-ke-zu-dang/</id>
+        <link href="https://luzang.xyz/post/bu-ke-zu-dang/">
+        </link>
+        <updated>2022-04-30T21:06:41.000Z</updated>
+        <content type="html"><![CDATA[<p>我该如何逃离<br>
+用直尺刻度去描述<br>
+子弹穿过身体的长度</p>
+<p>我该如何不留痕迹的<br>
+不可阻挡</p>
+<p>我又该如何<br>
+克制脚步轻盈<br>
+重温温软的时光</p>
+<p>想象中我也爱你</p>
+<p>修罗场啊<br>
+英雄啊<br>
+鲜血是花的芬芳</p>
+<p>未经允许禁止转载🌈<br>
+评论中昵称邮箱网址可只填写昵称.<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可爱]]></title>
         <id>https://luzang.xyz/post/ke-ai/</id>
@@ -311,41 +344,6 @@
 只是偶尔不在<br>
 我们在房子里<br>
 却在房子外</p>
-<p>未经允许禁止转载🌈<br>
-评论中昵称邮箱网址可只填写昵称.<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秘密]]></title>
-        <id>https://luzang.xyz/post/mi-mi/</id>
-        <link href="https://luzang.xyz/post/mi-mi/">
-        </link>
-        <updated>2022-03-28T08:06:19.000Z</updated>
-        <content type="html"><![CDATA[<p>钟跌进了云里<br>
-风不会怀疑<br>
-这温热的气息<br>
-滴滴答答的想要哭泣<br>
-总有人忘了<br>
-春天即将离去<br>
-忘了在此之前<br>
-强烈地希望冲淡这迷惘<br>
-于是泄漏的风声<br>
-在互相致意<br>
-一个美丽而不可思议的奇迹<br>
-埋葬着是一颗颗透明的秘密<br>
-只是没人告诉他<br>
-它为何如此痴迷</p>
 <p>未经允许禁止转载🌈<br>
 评论中昵称邮箱网址可只填写昵称.<br>
 <span id="busuanzi_container_page_pv"><br>
