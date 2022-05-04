@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-04-30T21:08:27.790Z</updated>
+    <updated>2022-05-04T16:35:52.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,116 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[音乐理论基础]]></title>
+        <id>https://luzang.xyz/post/yin-le-li-lun-ji-chu/</id>
+        <link href="https://luzang.xyz/post/yin-le-li-lun-ji-chu/">
+        </link>
+        <updated>2022-05-04T16:05:09.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>更新于2022.5.5
+</code></pre>
+<h3 id="音与音高">音与音高</h3>
+<p>一、音<br>
+音的四种性质：高低，强弱，长短，音色<br>
+由于音的规则与不规则分为乐音与噪音<br>
+由发音体全段振动而产生的音叫基音<br>
+由发音体各部分振动产生的音叫泛音</p>
+<p>二、乐音体系 音列 音级<br>
+乐音体系：在音乐中使用的、有固定音高的音的总和<br>
+音列：乐音体系中的音，按照上行 下行次序排列<br>
+音级：音乐体系中的各个音，乐音体系中，七个具有独立名称的音为基本音级，<br>
+八度：两个相邻的具有同样名称的音<br>
+变化音级：升高或降低基本音级得来的音，升高半音用升或#，降低半音用降或b，升高全音用重升或x，降低全音用重降或bb</p>
+<p>三、音域及音区<br>
+两种音域：总的音域（音列的总范围，即最低音到最高音）和个别人声或乐器的音域（整个音域能达到的那部分）<br>
+音区：音区是音域的一部分，有高音区（特性清脆、嘹亮、尖锐），中音区（不配拥有姓名），低音区（浑厚笨重）</p>
+<h3 id="音律">音律</h3>
+<p>一、十二平均律<br>
+十二平均律：八度分成十二个均等的部分--半音--的音律，八度内包含十二个半音，即六个全音<br>
+半音：是十二平均律组织中最小的音高距离<br>
+全音：两音间距离等于两个半音的音<br>
+除了E到F B到C是半音其他均为全音，钢琴上，相邻的两个琴键（包括黑键）都构成半音，隔开一个琴键的两个音则构成全音</p>
+<p>二、五度相生律</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简写BP]]></title>
+        <id>https://luzang.xyz/post/jian-xie-bp/</id>
+        <link href="https://luzang.xyz/post/jian-xie-bp/">
+        </link>
+        <updated>2022-05-04T15:47:25.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>格式建议<br>
+通常选择pdf或ppt，考虑移动阅读调大内容，控制20页内，演讲30分内。</p>
+</li>
+<li>
+<p>大纲建议：<br>
+1·团队<br>
+2·项目内容<br>
+3·市场规模<br>
+4·商业模式，收入构成，收入预测情况<br>
+5·核心优势<br>
+6·相关数据，用户留存<br>
+7·竞争对手，主要对手的关系<br>
+8·财务情况，花费及财务预算<br>
+9·路线图<br>
+10·融资，估值与股权结构</p>
+</li>
+<li>
+<p>细节：bp由创始人准备另准备演讲稿，逐字稿精简内容话术加现场发挥，不同时常15m 3m等版本，需要提前准备，或录音回放优化。</p>
+</li>
+</ul>
+<p>评论中昵称邮箱网址可只填写昵称.<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简谈文明]]></title>
+        <id>https://luzang.xyz/post/jian-tan-wen-ming/</id>
+        <link href="https://luzang.xyz/post/jian-tan-wen-ming/">
+        </link>
+        <updated>2022-05-04T15:29:08.000Z</updated>
+        <content type="html"><![CDATA[<p>文明是增进文化创造的社会的秩序，动乱的终结即为文明的起点，一旦恐惧被克服，好奇心与进行建设的欲望不受约束，人们自然会产生进一步了解并改善生活的冲动。</p>
+<ul>
+<li>
+<p>四大因素：经济的供应，政治的组织，伦理的传留，只是与艺术的追求</p>
+</li>
+<li>
+<p>客观条件：地质条件，地理条件，经济条件，文化 种族融合</p>
+</li>
+<li>
+<p>文化：统一的语言，统一的道德规范，生活的规律，秩序，规则，方针，激励奋发。基本统一的信念，某种信仰超自然或乌托邦的思想。使伦理道德由空洞的话语升华到虔诚的奉献，使生活具有崇高重大的意义，文化的传递必须接受教育。</p>
+</li>
+<li>
+<p>文明的经济条件：狩猎到农耕，储藏，有序的组织，豢养，种植，工具<br>
+假设进化论属实 人类从兽类步入文明的三个步骤，语言，农耕，写作</p>
+</li>
+</ul>
+<p>评论中昵称邮箱网址可只填写昵称.<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不可阻挡]]></title>
         <id>https://luzang.xyz/post/bu-ke-zu-dang/</id>
@@ -247,103 +357,6 @@
 <p>这一路没有渴望的自由<br>
 却很空旷<br>
 这一路短暂且漫长</p>
-<p>未经允许禁止转载🌈<br>
-评论中昵称邮箱网址可只填写昵称.<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离去]]></title>
-        <id>https://luzang.xyz/post/chi-qu/</id>
-        <link href="https://luzang.xyz/post/chi-qu/">
-        </link>
-        <updated>2022-04-11T19:24:08.000Z</updated>
-        <content type="html"><![CDATA[<p>当你说要离去<br>
-在一个很深的夜<br>
-就像一幅行走的艺术那般<br>
-在漫长的黑夜中<br>
-起舞<br>
-而后再升起一团团薄雾<br>
-当它们熟透了熬过了<br>
-就将化成一颗颗露珠<br>
-落在一幕又一幕</p>
-<p>未经允许禁止转载🌈<br>
-评论中昵称邮箱网址可只填写昵称.<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渴望]]></title>
-        <id>https://luzang.xyz/post/ke-wang/</id>
-        <link href="https://luzang.xyz/post/ke-wang/">
-        </link>
-        <updated>2022-04-01T07:16:39.000Z</updated>
-        <content type="html"><![CDATA[<p>树木渴望天空<br>
-而不是大地<br>
-太阳渴望缝隙<br>
-而不是嫩苗<br>
-它们日复一日地<br>
-熬过这一天的渴望<br>
-在这座凹凸不平的星球上<br>
-划出了美妙的轨迹<br>
-于是愚钝的大脑<br>
-捕捉了这艺术的细腻<br>
-在发根极速生长<br>
-在未曾踏足的大地上<br>
-开出了一整个你爱的四季</p>
-<p>未经允许禁止转载🌈<br>
-评论中昵称邮箱网址可只填写昵称.<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[房子]]></title>
-        <id>https://luzang.xyz/post/fang-zi/</id>
-        <link href="https://luzang.xyz/post/fang-zi/">
-        </link>
-        <updated>2022-04-01T07:16:05.000Z</updated>
-        <content type="html"><![CDATA[<p>一栋沾满青苔的房子<br>
-它活着<br>
-是为了某一天能躺着<br>
-让汽车轰轰隆隆地开进来<br>
-清晨<br>
-它们空着<br>
-它们被塞满了<br>
-只在傍晚才觉得自由自在<br>
-他们一直住在这<br>
-只是偶尔不在<br>
-我们在房子里<br>
-却在房子外</p>
 <p>未经允许禁止转载🌈<br>
 评论中昵称邮箱网址可只填写昵称.<br>
 <span id="busuanzi_container_page_pv"><br>
