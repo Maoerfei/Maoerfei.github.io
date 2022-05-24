@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-05-20T20:23:57.095Z</updated>
+    <updated>2022-05-24T20:09:14.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[流浪诗人]]></title>
+        <id>https://luzang.xyz/post/liu-lang-shi-ren/</id>
+        <link href="https://luzang.xyz/post/liu-lang-shi-ren/">
+        </link>
+        <updated>2022-05-24T20:03:50.000Z</updated>
+        <content type="html"><![CDATA[<p>我见过最后一面<br>
+是所有的再见，为所有的单薄———<br>
+开了一条整洁的路</p>
+<p>路边的野花俗气的雍容华贵<br>
+嚣张的诗人在枝上一层层汲取灵感</p>
+<p>我不认识他<br>
+如同不懂这世界的丰富<br>
+在道尽了所有的皎洁以后<br>
+在比较完今天与昨天以后<br>
+都已见过最后一面</p>
+<p>未经允许禁止转载🌈<br>
+评论中昵称邮箱网址可只填写昵称.<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旧时期]]></title>
         <id>https://luzang.xyz/post/jiu-shi-qi/</id>
@@ -316,43 +347,6 @@
 <p>我路过可爱<br>
 可爱歪头歪脑<br>
 任性又惬意</p>
-<p>未经允许禁止转载🌈<br>
-评论中昵称邮箱网址可只填写昵称.<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[树洞]]></title>
-        <id>https://luzang.xyz/post/shu-dong/</id>
-        <link href="https://luzang.xyz/post/shu-dong/">
-        </link>
-        <updated>2022-04-27T19:07:36.000Z</updated>
-        <content type="html"><![CDATA[<p>我的心空荡的像一粒尘没有的房子<br>
-那么大的洞<br>
-硬生生地塞进了星河<br>
-在膨胀中速冻<br>
-在不可逆转的走向毁灭<br>
-而时间<br>
-在枯萎的路上滑行<br>
-一直都没有温度</p>
-<p>我的根藏在一列废弃列车的车轮下<br>
-腐烂自上而下<br>
-所以你勿需悲伤<br>
-也不必庆幸<br>
-它曾轻而易举的追逐过蝴蝶<br>
-也曾用力与夕阳互道晚安<br>
-一切都将丢在时间里<br>
-都得关在眷恋的梦里</p>
 <p>未经允许禁止转载🌈<br>
 评论中昵称邮箱网址可只填写昵称.<br>
 <span id="busuanzi_container_page_pv"><br>
