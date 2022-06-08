@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-05-24T20:16:40.723Z</updated>
+    <updated>2022-06-08T18:47:42.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[创世纪]]></title>
+        <id>https://luzang.xyz/post/chuang-shi-ji/</id>
+        <link href="https://luzang.xyz/post/chuang-shi-ji/">
+        </link>
+        <updated>2022-06-08T18:45:32.000Z</updated>
+        <content type="html"><![CDATA[<p>在虚无被定义为黑的一片空间里<br>
+那黑，洞穿了所有的冲动<br>
+冷冻了扭曲与翻滚的</p>
+<p>是谁？被蒙住了眼睛<br>
+洞悉了土壤与石子</p>
+<p>又是谁？任凭想象<br>
+挥了挥手———<br>
+“要有光！”</p>
+<p>空间第一次感受神圣的黑色温度<br>
+照亮了指甲缝中的泥土<br>
+那颜色<br>
+使每支手指都在发芽<br>
+于是，春天来临了</p>
+<p>未经允许禁止转载🌈<br>
+评论中昵称邮箱网址可只填写昵称.<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流浪诗人]]></title>
         <id>https://luzang.xyz/post/liu-lang-shi-ren/</id>
@@ -311,42 +345,6 @@
 <p>修罗场啊<br>
 英雄啊<br>
 鲜血是花的芬芳</p>
-<p>未经允许禁止转载🌈<br>
-评论中昵称邮箱网址可只填写昵称.<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可爱]]></title>
-        <id>https://luzang.xyz/post/ke-ai/</id>
-        <link href="https://luzang.xyz/post/ke-ai/">
-        </link>
-        <updated>2022-04-27T20:09:11.000Z</updated>
-        <content type="html"><![CDATA[<p>鱼偷亲了云彩<br>
-害羞穿过长空<br>
-被隐匿在河的对岸<br>
-稚气的脸<br>
-一前一后<br>
-天空将暧昧结晶<br>
-敲打着它的脑袋<br>
-一步一趋</p>
-<p>而后<br>
-是一片小小的紫叶李花瓣<br>
-裹着惦念<br>
-落在满身泥垢的鞋面上</p>
-<p>我路过可爱<br>
-可爱歪头歪脑<br>
-任性又惬意</p>
 <p>未经允许禁止转载🌈<br>
 评论中昵称邮箱网址可只填写昵称.<br>
 <span id="busuanzi_container_page_pv"><br>
