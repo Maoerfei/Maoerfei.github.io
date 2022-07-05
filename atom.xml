@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzang.xyz</id>
     <title>鹿藏</title>
-    <updated>2022-06-12T12:11:39.219Z</updated>
+    <updated>2022-07-05T16:05:30.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luzang.xyz"/>
     <link rel="self" href="https://luzang.xyz/atom.xml"/>
@@ -10,6 +10,56 @@
     <logo>https://luzang.xyz/images/avatar.png</logo>
     <icon>https://luzang.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 鹿藏</rights>
+    <entry>
+        <title type="html"><![CDATA[框住一片海]]></title>
+        <id>https://luzang.xyz/post/kuang-zhu-yi-pian-hai/</id>
+        <link href="https://luzang.xyz/post/kuang-zhu-yi-pian-hai/">
+        </link>
+        <updated>2022-07-05T16:03:47.000Z</updated>
+        <content type="html"><![CDATA[<p>我有一间小房子与大海相通<br>
+它氤氲又潮湿<br>
+清晨，清冽的海风使我的皮肤开始发芽<br>
+从一片到另一片<br>
+在此之前的人群<br>
+也是这儿一片那儿一片<br>
+无数双紧闭的双眼<br>
+洞悉了，无限深邃宁静的海<br>
+我热烈过<br>
+可我这瘦弱娇小的身躯<br>
+远不及远古恐龙般灵魂坚定</p>
+<p>在那间鎏着金光的房子里<br>
+富丽而堂皇吞噬了时间的渴望<br>
+连你都想要住进来<br>
+想要告诉我<br>
+“我也爱你”<br>
+我也爱你！<br>
+只是曾经的你<br>
+被圈在一间没有房的空白里游荡</p>
+<p>一把电钻钻出了腐朽破败<br>
+里面藏着崭新的<br>
+消逝的二十年<br>
+一篇点着灯的童话<br>
+一章背着灯的童话<br>
+再到千百年来没有风的<br>
+一片宁静的———海<br>
+那你也一定页了解过<br>
+没有风也没有灯</p>
+<p>未经允许禁止转载🌈<br>
+评论中昵称邮箱网址可只填写昵称.<br>
+<span id="busuanzi_container_page_pv"><br>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
+</span><br>
+</span></p>
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
+            appKey: '0oikL6vumPLOKHff47ow2Xok'
+        })
+    </script>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创世纪]]></title>
         <id>https://luzang.xyz/post/chuang-shi-ji/</id>
@@ -314,39 +364,6 @@
 </li>
 </ul>
 <p>评论中昵称邮箱网址可只填写昵称.<br>
-<span id="busuanzi_container_page_pv"><br>
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
-</span><br>
-</span></p>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'g1uUqR4V350MFI3jfyYucXWz-gzGzoHsz',
-            appKey: '0oikL6vumPLOKHff47ow2Xok'
-        })
-    </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不可阻挡]]></title>
-        <id>https://luzang.xyz/post/bu-ke-zu-dang/</id>
-        <link href="https://luzang.xyz/post/bu-ke-zu-dang/">
-        </link>
-        <updated>2022-04-30T21:06:41.000Z</updated>
-        <content type="html"><![CDATA[<p>我该如何逃离<br>
-用直尺刻度去描述<br>
-子弹穿过身体的长度</p>
-<p>我该如何不留痕迹的<br>
-不可阻挡</p>
-<p>我又该如何<br>
-克制脚步轻盈<br>
-重温温软的时光</p>
-<p>想象中我也爱你！</p>
-<p>修罗场啊<br>
-英雄啊<br>
-鲜血是花的芬芳</p>
-<p>未经允许禁止转载🌈<br>
-评论中昵称邮箱网址可只填写昵称.<br>
 <span id="busuanzi_container_page_pv"><br>
 本文总阅读量<span id="busuanzi_value_page_pv"></span>次<br>
 </span><br>
